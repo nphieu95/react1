@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Pack Han Seo",
+        "tel":"0909909909",
+        "permission":1
+    },
+    {
+        "id": 2,
+        "name": "Đặng Văn Lâm",
+        "tel": "0925603594",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Bùi Tiến Dũng",
+        "tel": "0906375105",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Nguyễn Công phượng",
+        "tel": "0909000009",
+        "permission": 3
+    },
+    {
+        "id": 5,
+        "name": "Nguyễn Quang Hải",
+        "tel": "0355025540",
+        "permission": 3
+    },
+    {
+        "id": 6,
+        "name": "Hà Đức Chinh",
+        "tel": "0925628540",
+        "permission": 3
+    },
+    {
+        "id": 7,
+        "name": "Đỗ Nam Trung",
+        "tel": "0953506296",
+        "permission": 3
+    },
+    {
+        "id": 8,
+        "name": "Hà Linh Tâm",
+        "tel": "09246286026",
+        "permission": 3
+    },
+    {
+        "id": 9,
+        "name": "Nude Tiger",
+        "tel": "0903563423",
+        "permission": 3
+    },
+    {
+        "id": 10,
+        "name": "Nude Tiger",
+        "tel": "0903563423",
+        "permission": 3
+    },
+    {
+        "id": 11,
+        "name": "Nude Tiger",
+        "tel": "0903563423",
+        "permission": 3
+    },
+    {
+        "id": 12,
+        "name": "Nude Tiger",
+        "tel": "0903563423",
+        "permission": 3
+    }
+]
